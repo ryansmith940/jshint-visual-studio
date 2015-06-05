@@ -19,6 +19,10 @@
     "name": "Patrick Lafrance",
     "email": "patrick.lafrance.code@gmail.com"
   },
+  "contributors": {
+    "name": "Ryan Smith",
+    "email": "ryansmith940@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ryansmith940/jshint-visual-studio/issues"
