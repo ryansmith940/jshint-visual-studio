@@ -30,5 +30,7 @@
   "homepage": "https://github.com/ryansmith940/jshint-visual-studio",
   "devDependencies": {
     "jshint": "~2.4.3"
-  }
+  },
+  "dependencies" : {},
+  "engines" : {}
 }
