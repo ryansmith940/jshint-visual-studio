@@ -16,15 +16,11 @@ module.exports = {
 		}, {});
 		
 		if (Object.keys(errors).length > 0) {
-			console.log("");
-			
 			Object.keys(errors).forEach(function(key) {
 				errors[key].forEach(function(error) {
-					console.log(error);
+					console.warn(error);
 				});
 			});
-			
-			console.log("");
 		}
 	}
 };
